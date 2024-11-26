@@ -1,4 +1,4 @@
-# Glacier Verifier Node Setup
+# <p align="center">Glacier Verifier Node Setup</p>
 
 ## Попередні вимоги
 
