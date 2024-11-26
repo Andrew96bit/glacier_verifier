@@ -65,10 +65,3 @@ docker run -d -e PRIVATE_KEY=$YOUR_PRIVATE_KEY --name glacier-verifier docker.io
 ```
 
 ---
-
-## Корисні посилання
-- [Офіційний GitHub репозиторій Glacier Labs](https://github.com/Glacier-Labs/node-bootstrap)
-
----
-
-Додай цей файл до репозиторія під назвою `README.md`. Якщо потрібна допомога з розміщенням файлу чи налаштуванням репозиторія, дай знати!
