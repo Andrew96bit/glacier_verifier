@@ -43,7 +43,7 @@ docker run -d -e PRIVATE_KEY=$YOUR_PRIVATE_KEY --name glacier-verifier docker.io
 docker logs -f glacier-verifier
 ```
 
-<p align="center">#### ❗❗❗ Важливо ❗❗❗</p>
+####<p align="center">❗❗❗ Важливо ❗❗❗</p>
 - Мережа складається з понад **10 000 активних нод**, з яких лише **200 обираються кожні п’ять хвилин**.  
 - Тому статус вашої ноди оновиться через певний час, приблизно **30 хвилин**.  
 - Перевірити статус ноди можна тут: **[Glacier Node Status](https://testnet.nodes.glacier.io/status)**.
